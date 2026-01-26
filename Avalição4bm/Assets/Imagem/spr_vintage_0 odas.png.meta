@@ -132,12 +132,12 @@ TextureImporter:
       name: spr_vintage_0 odas_0
       rect:
         serializedVersion: 2
-        x: 28
-        y: 41
-        width: 64
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 30
+        y: 42
+        width: 46
+        height: 45
+      alignment: 9
+      pivot: {x: 0.49039924, y: 0.4977083}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -154,12 +154,12 @@ TextureImporter:
       name: spr_vintage_0 odas_1
       rect:
         serializedVersion: 2
-        x: 185
-        y: 41
-        width: 48
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 186
+        y: 42
+        width: 46
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.523072}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -176,7 +176,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 097a786130862274285755ca22193d51
     internalID: 0
     vertices: []
     indices: 
@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spr_vintage_0 odas_0: -7137085129068982581
+      spr_vintage_0 odas_1: -7854103453167297144
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
