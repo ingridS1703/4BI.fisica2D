@@ -4,6 +4,7 @@ using UnityEngine;
 public class LinhaDeChegada : MonoBehaviour
 {
     public GameObject mensagem;
+    public GameObject button;
     
     
     void Start()
